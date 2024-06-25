@@ -1,3 +1,12 @@
-# Healthcare-Disease-Diagnosis
+# Healthcare Disease Diagnosis Project
 
-Description:- "Healthcare Disease Diagnosis" is a project that helps diagnose diseases based on patient symptoms and medical history. The project uses a dataset that contains various information about diseases, including patient symptoms like fever, cough, fatigue, difficulty breathing, patient age, gender, blood pressure, cholesterol level, and the outcome of the diagnosis. To prepare the data, the project uses data preprocessing techniques such as removing duplicates, encoding categorical data, and transforming categorical data into numerical format. The project also includes exploratory data analysis (EDA) techniques, such as count plots, scatter plots, histograms, and pie charts, to help visualize the data. The project employs machine learning algorithms, including the Random Forest Classifier, to predict the outcome variable. The ultimate aim of this project is to provide healthcare professionals with a tool that can help them diagnose diseases more accurately and efficiently.
+***Description:*** The "Healthcare Disease Diagnosis" project leverages machine learning to diagnose diseases based on patient symptoms and medical history. Utilizing a comprehensive dataset with information on symptoms (fever, cough, fatigue, difficulty breathing), patient demographics (age, gender), and medical metrics (blood pressure, cholesterol level), the project aims to enhance diagnostic accuracy.
+
+***Key Techniques:***
+- **Data Preprocessing:** Removing duplicates, encoding categorical data, and transforming data into numerical format.
+- **Exploratory Data Analysis (EDA):** Visualizing data with count plots, scatter plots, histograms, and pie charts.
+- **Machine Learning:** Training a Random Forest Classifier to predict disease outcomes.
+
+***Outcome:*** Provides a tool for healthcare professionals to diagnose diseases more accurately and efficiently.
+
+***Keywords:*** Machine Learning, Data Preprocessing, Exploratory Data Analysis, Random Forest Classifier, Healthcare, Disease Diagnosis, Python.
